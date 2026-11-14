@@ -54,7 +54,7 @@ images/dashboard.png
 ![Dashboard](images/dashboard.png)
 
 ## Deployed Application Link
-ADD YOUR STREAMLIT COMMUNITY CLOUD LINK HERE
+(https://clv-prediction-app.streamlit.app/)
 
 ## Group Members
 Sanjay, Spandana, Rathan, Himnish, Sumaiya
